@@ -1,0 +1,12 @@
+{
+    "7": {
+        "roll_number": "7",
+        "name": "kannan",
+        "marks": {
+            "Python": 75.0,
+            "HTML": 80.0,
+            "CSS": 90.0,
+            "JavaScript": 99.0
+        }
+    }
+}
