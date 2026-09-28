@@ -1,0 +1,9 @@
+[
+    {
+        "expense_id": "23",
+        "category": "bike",
+        "amount": 100000.0,
+        "description": "nothing",
+        "date": "2026-09-28"
+    }
+]
