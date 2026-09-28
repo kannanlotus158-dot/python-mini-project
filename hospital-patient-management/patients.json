@@ -1,0 +1,9 @@
+[
+    {
+        "patient_id": "23",
+        "name": "kam",
+        "age": 23,
+        "disease": "sugar",
+        "phone": "1234567890"
+    }
+]
