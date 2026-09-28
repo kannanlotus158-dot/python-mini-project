@@ -1,0 +1,15 @@
+[
+    {
+        "bill_id": "23",
+        "customer_name": "kannan",
+        "items": [
+            {
+                "name": "tomato",
+                "quantity": 50,
+                "price": 500.0
+            }
+        ],
+        "date": "2026-09-28 09:12:05",
+        "total": 25000.0
+    }
+]
